@@ -1,0 +1,9 @@
+Email-Spam-Classifier/
+│
+├── app.py
+├── model.pkl
+├── vectorizer.pkl
+├── spam.csv
+├── model.ipynb
+├── requirements.txt   ← NEW
+└── README.md
