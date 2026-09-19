@@ -5,6 +5,13 @@ A Machine Learning-based **Spam Mail Classifier** that automatically classifies 
 The project performs text preprocessing, feature extraction, model training, and prediction through a simple application interface.
 
 ---
+## 🚀 Live Demo
+
+Try the **Email Spam Classifier** here:
+
+👉 **Live Demo:** https://email-spam-classifiergit-g7wxd8bcjfebyjkukuizaq.streamlit.app/
+
+Enter an email message and the application will predict whether it is **Spam** or **Not Spam**.
 
 ##  Project Overview
 
